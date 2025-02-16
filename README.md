@@ -1,11 +1,6 @@
-![1](https://github.com/user-attachments/assets/f4078397-43a8-4b87-8329-659f3829c35c)
-![2](https://github.com/user-attachments/assets/bb66f84c-37c0-4233-bb60-10772f7cd0f6)
-![3](https://github.com/user-attachments/assets/e103c992-cf69-4493-bbaa-aad6b2d72ccb)
-![4](https://github.com/user-attachments/assets/7416d7af-f902-4208-93d4-62a54b900cec)
-![5](https://github.com/user-attachments/assets/1e4c0bfe-a008-4b42-a7bc-52dabc2441d2)
-![89](https://github.com/user-attachments/assets/8ecb046c-f2aa-4f36-a5f1-9207c57d35a3)
-![112](https://github.com/user-attachments/assets/8134a066-5343-487c-8e89-6a00f06ce184)
-![444](https://github.com/user-attachments/assets/ed15ade5-f328-4f39-a7b2-2d5b4ddebdea)
-
-# PORTFOLIO
-Personal Portfolio Website by Pushpendra Singh  This responsive portfolio website, built with HTML, CSS, and JavaScript, showcases my skills, projects, and professional journey. The goal was to create a visually appealing site for potential employers and clients.
+![Capture](https://github.com/user-attachments/assets/5eb4ef2f-a3d2-47e6-8475-e78aad2a3ede)
+![Capture2](https://github.com/user-attachments/assets/920ec32b-7178-4c42-af1f-4c6db8bdb7f9)
+![Capture3](https://github.com/user-attachments/assets/cc14e1d1-3194-4da2-ba2c-b34e35eab4c1)
+![Capture4](https://github.com/user-attachments/assets/166e2b31-308f-4ebd-9380-986350be6296)
+![Capture5](https://github.com/user-attachments/assets/4efd3283-e421-4203-90b8-d7f03bdfa69a)
+![Capture6](https://github.com/user-attachments/assets/422f182a-8a34-4bf7-b812-404571fd5e79)
